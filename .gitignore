@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# FAISS or LangChain vectorstore indexes
+*.faiss
+*.pkl
+index/
+
+# Render-specific
+venv/
+*.sqlite3
