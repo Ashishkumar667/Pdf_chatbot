@@ -39,14 +39,14 @@ A simple and powerful PDF chatbot using [LangChain](https://www.langchain.com/),
 ```bash
 git clone https://github.com/Ashishkumar667/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
-```bash
-### 2.Install dependencies
+
+2.Install dependencies
 pip install -r requirements.txt
 
-### 3. create .env
+3. create .env
 OPENAI_API_KEY=your_openai_api_key
 
-### 4.Run Locally
+4.Run Locally
 streamlit run app.py
 
 Visit http://localhost:8501 in your browser.
