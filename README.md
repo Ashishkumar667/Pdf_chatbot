@@ -37,9 +37,9 @@ A simple and powerful PDF chatbot using [LangChain](https://www.langchain.com/),
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/pdf-rag-chatbot.git
+git clone https://github.com/Ashishkumar667/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
-```
+```bash
 ### 2.Install dependencies
 pip install -r requirements.txt
 
